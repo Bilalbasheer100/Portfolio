@@ -1,2 +1,2 @@
 portfolio
-  link: https://bilalbasheer100.github.io/Portfolio/
+link: https://bilalbasheer100.github.io/Portfolio/
